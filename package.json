@@ -1,0 +1,19 @@
+{
+  "name": "aws-api-gateway-websockets-serverless-playground",
+  "version": "1.0.0",
+  "description": "learn AWS API Gateway Websockets with [serverless framework](https://serverless.com/framework/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-websockets-plugin": "^1.0.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.384.0",
+    "sanitize-html": "^1.20.0"
+  }
+}
