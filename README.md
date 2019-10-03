@@ -1,6 +1,6 @@
 # aws-api-gateway-websockets-serverless-playground
 
-*update 2019-10-03*: "natively supported in serverless framework" no longer need to use `serverless-websockets-plugin`.  see <https://serverless.com/framework/docs/providers/aws/events/websocket/>
+*update 2019-10-03*: websocket events are now "natively supported in serverless framework" no longer need to use `serverless-websockets-plugin`.  see <https://serverless.com/framework/docs/providers/aws/events/websocket/>
 
 below uses `serverless-websockets-plugin`
 
